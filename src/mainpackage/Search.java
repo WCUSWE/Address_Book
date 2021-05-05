@@ -14,7 +14,6 @@ import java.io.IOException;
 import java.io.Writer;
 import java.util.Scanner;
 
-
 public class Search {
 	public static void choose_field() throws FileNotFoundException, IOException {
 		Scanner input = new Scanner(System.in);
