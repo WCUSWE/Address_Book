@@ -1,5 +1,4 @@
 package mainpackage;
-
 import java.io.*;
 import java.nio.file.DirectoryNotEmptyException;
 import java.nio.file.Files;
@@ -7,7 +6,6 @@ import java.nio.file.NoSuchFileException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 public class Change {
 	public static void choose_field() throws FileNotFoundException, IOException {
 		Scanner input = new Scanner(System.in);
