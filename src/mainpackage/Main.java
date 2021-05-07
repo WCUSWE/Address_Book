@@ -1,18 +1,15 @@
 package mainpackage;
 import java.util.Arrays;
 import java.util.Scanner;
-
 import mainpackage.Print;
 import mainpackage.Add;
 import mainpackage.Search;
 import mainpackage.Change;
 import mainpackage.Delete;
-
 import java.io.*;
 import java.net.*;
 import java.util.*;
 import java.nio.charset.Charset;
-
 public class Main {
 	public static void main(String[] args) throws IOException {
 		
