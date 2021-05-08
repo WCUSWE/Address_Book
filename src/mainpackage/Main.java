@@ -34,6 +34,7 @@ public class Main {
 				answer = input.nextInt();
 			} catch (NumberFormatException e) {
 			    //e.printStackTrace();
+				//system.out.println("do while loop");
 				answer = -1;
 			}
 			if(answer == 1)//according to user's input we go to each class
@@ -54,3 +55,4 @@ public class Main {
 	}
 }
 //commment
+//this is commented by tester
